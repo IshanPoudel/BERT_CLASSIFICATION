@@ -1,0 +1,17 @@
+End to End NLP project
+Expert Talks
+
+AutoCompletion - Spam Filters , Language Translation , Customer Service ChatBots.
+
+Automated News Story -  Generated during NLP.
+BERT -
+
+NLP - AI gives machines an ability to understand human languages better and to assist.
+
+USE CASES:
+FastText - Word Embeddings,
+OpenSource Ecosystem
+Cheap Hardware , Cloud Resources.
+Learning Data Science
+
+

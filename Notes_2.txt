@@ -1,0 +1,30 @@
+Regular Expression -
+order .* [0-9]$
+
+One Hot Encoding - for each vlaue , create dummy variables for nominal values.
+Three Category for NLP techniques
+
+
+BERT MODEL :
+Text Classification Model  Person or Country
+Dhoni - TC Model - person
+Australia - TC Model - country
+
+How can you say Dhoni and Cummins are similar?
+How so you say Cummins and Australia are not similar?
+
+See features of the word.
+Similar features  , means similar to feature.
+
+Create vectors out of features and compare the feature vectors. Similar to Word Embeddings.
+
+
+What if there are synonyms?
+BERT will generate contextualized embeddings.
+
+BERT will generste embeddings for sentences.
+
+Bert was trained on wikipedia
+Masked Language Model
+Next Sentence Prediciton -
+Bidirectional Embeddings from
